@@ -1,0 +1,8 @@
+"Bear"
+"Polar Bear"
+"Grizzly Bear"
+"Raccoon Bear"
+"Panda Bear"
+"Brown Bear"
+"Sun Bear"
+"Moon Bear"
